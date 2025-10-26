@@ -1,0 +1,2355 @@
+{
+  "fetchSpecialties": {
+    "networkProviderSpecialtiesResult": {
+      "TextIdentityPicklist": [
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 1,
+            "identity": "All Specialties",
+            "value": "All Specialties"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 2,
+            "identity": "Addiction Medicine",
+            "value": "Addiction Medicine"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 3,
+            "identity": "Allergy and Immunology",
+            "value": "Allergy and Immunology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 4,
+            "identity": "Ambulance-Non-Emergency",
+            "value": "Ambulance-Non-Emergency"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 5,
+            "identity": "Anesthesiology",
+            "value": "Anesthesiology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 6,
+            "identity": "Cardiac Electrophysiology",
+            "value": "Cardiac Electrophysiology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 7,
+            "identity": "Cardio-Thoracic Surgery",
+            "value": "Cardio-Thoracic Surgery"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 8,
+            "identity": "Cardiovascular Disease",
+            "value": "Cardiovascular Disease"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 9,
+            "identity": "Cardiovascular Surgery",
+            "value": "Cardiovascular Surgery"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 10,
+            "identity": "Clinical Neurophysiology",
+            "value": "Clinical Neurophysiology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 11,
+            "identity": "Colon and Rectal Surgery",
+            "value": "Colon and Rectal Surgery"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 12,
+            "identity": "Critical Care Medicine",
+            "value": "Critical Care Medicine"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 13,
+            "identity": "Cytopathology",
+            "value": "Cytopathology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 14,
+            "identity": "Dermatology",
+            "value": "Dermatology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 15,
+            "identity": "Dermatopathology",
+            "value": "Dermatopathology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 16,
+            "identity": "Electrophysiology",
+            "value": "Electrophysiology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 17,
+            "identity": "Emergency Medicine",
+            "value": "Emergency Medicine"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 18,
+            "identity": "Endocrinology",
+            "value": "Endocrinology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 19,
+            "identity": "Endocrinology \/ Metabolism",
+            "value": "Endocrinology \/ Metabolism"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 20,
+            "identity": "Endocrinology\/Diabetes",
+            "value": "Endocrinology\/Diabetes"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 21,
+            "identity": "Family Medicine",
+            "value": "Family Medicine"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 22,
+            "identity": "Gastroenterology",
+            "value": "Gastroenterology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 23,
+            "identity": "General Practice",
+            "value": "General Practice"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 24,
+            "identity": "General Vascular Surgery",
+            "value": "General Vascular Surgery"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 25,
+            "identity": "Genetics",
+            "value": "Genetics"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 26,
+            "identity": "Geriatrics",
+            "value": "Geriatrics"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 27,
+            "identity": "Gynecologic Oncology",
+            "value": "Gynecologic Oncology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 28,
+            "identity": "Gynecology",
+            "value": "Gynecology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 29,
+            "identity": "Hand Surgery",
+            "value": "Hand Surgery"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 30,
+            "identity": "Head and Neck Surgery",
+            "value": "Head and Neck Surgery"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 31,
+            "identity": "Hematology",
+            "value": "Hematology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 32,
+            "identity": "Hematology\/Oncology",
+            "value": "Hematology\/Oncology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 33,
+            "identity": "Infectious Diseases",
+            "value": "Infectious Diseases"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 34,
+            "identity": "Internal Medicine",
+            "value": "Internal Medicine"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 35,
+            "identity": "Interventional Cardiology",
+            "value": "Interventional Cardiology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 36,
+            "identity": "Maternal and Fetal Medicine",
+            "value": "Maternal and Fetal Medicine"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 37,
+            "identity": "Neonatal - Perinatal Medicine",
+            "value": "Neonatal - Perinatal Medicine"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 38,
+            "identity": "Nephrology",
+            "value": "Nephrology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 39,
+            "identity": "Neuro-Ophthalmology",
+            "value": "Neuro-Ophthalmology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 40,
+            "identity": "Neurological Surgery",
+            "value": "Neurological Surgery"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 41,
+            "identity": "Neurology",
+            "value": "Neurology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 42,
+            "identity": "Neurology, Pediatric",
+            "value": "Neurology, Pediatric"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 43,
+            "identity": "Neuropathology",
+            "value": "Neuropathology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 44,
+            "identity": "Neuroradiology",
+            "value": "Neuroradiology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 45,
+            "identity": "Nuclear Medicine",
+            "value": "Nuclear Medicine"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 46,
+            "identity": "Obstetrics",
+            "value": "Obstetrics"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 47,
+            "identity": "Obstetrics and Gynecology",
+            "value": "Obstetrics and Gynecology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 48,
+            "identity": "Nurse Midwife",
+            "value": "Nurse Midwife"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 49,
+            "identity": "Nurse Practitioner",
+            "value": "Nurse Practitioner"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 50,
+            "identity": "National Provider",
+            "value": "National Provider"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 51,
+            "identity": "Occupational Medicine",
+            "value": "Occupational Medicine"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 52,
+            "identity": "Oncology",
+            "value": "Oncology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 53,
+            "identity": "Ophthalmology",
+            "value": "Ophthalmology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 54,
+            "identity": "Oral and Maxillofacial Surgery",
+            "value": "Oral and Maxillofacial Surgery"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 55,
+            "identity": "Orthopaedic Surgery",
+            "value": "Orthopaedic Surgery"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 56,
+            "identity": "Otolaryngology",
+            "value": "Otolaryngology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 57,
+            "identity": "Pain Management",
+            "value": "Pain Management"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 58,
+            "identity": "Pathology",
+            "value": "Pathology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 59,
+            "identity": "Pathology, Anatomic",
+            "value": "Pathology, Anatomic"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 60,
+            "identity": "Pathology, Clinical",
+            "value": "Pathology, Clinical"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 61,
+            "identity": "Pediatric Allergy and Immunology",
+            "value": "Pediatric Allergy and Immunology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 62,
+            "identity": "Pediatric Cardiology",
+            "value": "Pediatric Cardiology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 63,
+            "identity": "Pediatric Critical Care Medicine",
+            "value": "Pediatric Critical Care Medicine"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 64,
+            "identity": "Pediatric Emergency Medicine",
+            "value": "Pediatric Emergency Medicine"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 65,
+            "identity": "Pediatric Endocrinology",
+            "value": "Pediatric Endocrinology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 66,
+            "identity": "Pediatric Gastroenterology",
+            "value": "Pediatric Gastroenterology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 67,
+            "identity": "Pediatric Hematology-Oncology",
+            "value": "Pediatric Hematology-Oncology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 68,
+            "identity": "Pediatric Infectious Disease",
+            "value": "Pediatric Infectious Disease"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 69,
+            "identity": "Pediatric Nephrology",
+            "value": "Pediatric Nephrology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 70,
+            "identity": "Pediatric Neurology",
+            "value": "Pediatric Neurology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 71,
+            "identity": "Pediatric Orthopaedics",
+            "value": "Pediatric Orthopaedics"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 72,
+            "identity": "Pediatric Phys Med and Rehab",
+            "value": "Pediatric Phys Med and Rehab"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 73,
+            "identity": "Pediatric Pulmonology",
+            "value": "Pediatric Pulmonology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 74,
+            "identity": "Pediatric Rheumatology",
+            "value": "Pediatric Rheumatology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 75,
+            "identity": "Pediatric Surgery",
+            "value": "Pediatric Surgery"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 76,
+            "identity": "Pediatric Urology",
+            "value": "Pediatric Urology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 77,
+            "identity": "Pediatrics",
+            "value": "Pediatrics"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 78,
+            "identity": "Physical Medicine and Rehabilitation",
+            "value": "Physical Medicine and Rehabilitation"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 79,
+            "identity": "Plastic Surgery",
+            "value": "Plastic Surgery"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 80,
+            "identity": "Plastic\/Reconstructive Surgery",
+            "value": "Plastic\/Reconstructive Surgery"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 81,
+            "identity": "Preventive Medicine",
+            "value": "Preventive Medicine"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 82,
+            "identity": "Psychiatry",
+            "value": "Psychiatry"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 83,
+            "identity": "Psychiatry \/ Neurology",
+            "value": "Psychiatry \/ Neurology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 84,
+            "identity": "Psychiatry, Child and Adolescent",
+            "value": "Psychiatry, Child and Adolescent"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 85,
+            "identity": "Pulmonary Diseases",
+            "value": "Pulmonary Diseases"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 86,
+            "identity": "Pulmonary\/Critical Care Medicine",
+            "value": "Pulmonary\/Critical Care Medicine"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 87,
+            "identity": "Radiation Oncology",
+            "value": "Radiation Oncology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 88,
+            "identity": "Radiology",
+            "value": "Radiology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 89,
+            "identity": "Radiology, Diagnostic",
+            "value": "Radiology, Diagnostic"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 90,
+            "identity": "Radiology, Interventional",
+            "value": "Radiology, Interventional"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 91,
+            "identity": "Radiology, Nuclear",
+            "value": "Radiology, Nuclear"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 92,
+            "identity": "Radiology, Pediatric",
+            "value": "Radiology, Pediatric"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 93,
+            "identity": "Radiology, Therapeutic",
+            "value": "Radiology, Therapeutic"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 94,
+            "identity": "Reproductive Endocrinology",
+            "value": "Reproductive Endocrinology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 95,
+            "identity": "Rheumatology",
+            "value": "Rheumatology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 96,
+            "identity": "Sleep Medicine",
+            "value": "Sleep Medicine"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 97,
+            "identity": "Sports Medicine",
+            "value": "Sports Medicine"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 98,
+            "identity": "Surgical Critical Care",
+            "value": "Surgical Critical Care"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 99,
+            "identity": "Thoracic Surgery",
+            "value": "Thoracic Surgery"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 100,
+            "identity": "Thoracic-Vascular Surgery",
+            "value": "Thoracic-Vascular Surgery"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 101,
+            "identity": "Urology",
+            "value": "Urology"
+          }
+        },
+        {
+          "TextIdentityPicklistItem": {
+            "weight": 102,
+            "identity": "Vascular Surgery",
+            "value": "Vascular Surgery"
+          }
+        }
+      ]
+    }
+  },
+  "search": {
+    "networkProviderSearchResult": {
+      "providers": [
+        {
+          "provider": {
+            "address": {
+              "locationName": "Newborn Associates",
+              "addressLineOne": "5 River Bend Pl",
+              "addressLineTwo": "Ste C",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "David F. Wender, MD",
+            "specialty": "Neonatal - Perinatal Medicine",
+            "telephone": "601-957-7345",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "By Referral Only",
+            "averageWaitTimeDescription": "0 - 15 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "Lakeland Radiologists PA",
+              "addressLineOne": "1030 River Oaks Dr",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "David Scalzo, MD",
+            "specialty": "Radiology, Diagnostic",
+            "telephone": "601-200-2000",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "1 Week or Less",
+            "averageWaitTimeDescription": "0 - 15 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "Lakeland Radiologists PA",
+              "addressLineOne": "1026 N Flowood Dr",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "David Scalzo, MD",
+            "specialty": "Radiology, Diagnostic",
+            "telephone": "601-200-2000",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "1 Week or Less",
+            "averageWaitTimeDescription": "0 - 15 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "Riverchase Neurology Clinic",
+              "addressLineOne": "2550 Flowood Dr Ste 200",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Manasa Gunturu, MD",
+            "specialty": "Neuro-Ophthalmology",
+            "telephone": "888-815-2005",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "3 - 4 Weeks",
+            "averageWaitTimeDescription": "30 - 45 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "Riverchase Neurology Clinic",
+              "addressLineOne": "2550 Flowood Dr Ste 200",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Manasa Gunturu, MD",
+            "specialty": "Neurology",
+            "telephone": "888-815-2005",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "3 - 4 Weeks",
+            "averageWaitTimeDescription": "30 - 45 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "Mississippi Brain & Spine PLLC",
+              "addressLineOne": "1 Layfair Dr Ste 120",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Orhan Ilercil, MD",
+            "specialty": "Neurological Surgery",
+            "telephone": "601-326-5700",
+            "providerId": null,
+            "providerRating": "4.8",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "1 Week or Less",
+            "averageWaitTimeDescription": "30 - 45 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "Merit Health River Regions",
+              "addressLineOne": "1030 River Oaks Dr",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Rhys K Crasto, MD",
+            "specialty": "Family Medicine",
+            "telephone": "601-932-1030",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "1 - 2 Weeks",
+            "averageWaitTimeDescription": "15 - 30 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "UMMC - Grants Ferry",
+              "addressLineOne": "1010 Lakeland Pl",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Amber M. Shiflett, MD",
+            "specialty": "Obstetrics and Gynecology",
+            "telephone": "888-815-2005",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "3 - 4 Weeks",
+            "averageWaitTimeDescription": "30 - 45 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "UMC Physician Services",
+              "addressLineOne": "2925 Layfair Dr",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Amber M. Shiflett, MD",
+            "specialty": "Obstetrics and Gynecology",
+            "telephone": "601-815-2005",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "No Value Specified",
+            "electiveProcedureWaitTimeDescription": "No Value Specified",
+            "averageWaitTimeDescription": "No Value Specified",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "UMMC - Grants Ferry",
+              "addressLineOne": "1010 Lakeland Pl",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Jessica B. Perkins, MD",
+            "specialty": "Allergy and Immunology",
+            "telephone": "888-815-2005",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "3 - 4 Weeks",
+            "averageWaitTimeDescription": "30 - 45 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "UMMC - Grants Ferry",
+              "addressLineOne": "1010 Lakeland Pl",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Jessica B. Perkins, MD",
+            "specialty": "Pediatrics",
+            "telephone": "888-815-2005",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "3 - 4 Weeks",
+            "averageWaitTimeDescription": "30 - 45 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "Family Health Care Clinic Flowood",
+              "addressLineOne": "1307 Airport Rd N Ste 2",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Carol Richardson, MD",
+            "specialty": "Obstetrics and Gynecology",
+            "telephone": "601-936-3833",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "1 Week or Less",
+            "averageWaitTimeDescription": "15 - 30 Minutes",
+            "extendedHoursFlag": true
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "MEA Primary Care Plus Castlewoods",
+              "addressLineOne": "507 Lakeland Pl",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Ashley Alphonse MD",
+            "specialty": "Family Medicine",
+            "telephone": "601-898-7557",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "No Value Specified",
+            "averageWaitTimeDescription": "15 - 30 Minutes",
+            "extendedHoursFlag": true
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "MEA Medical Clinic Castlewoods",
+              "addressLineOne": "507 Lakeland Pl",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Ashley Alphonse MD",
+            "specialty": "Family Medicine",
+            "telephone": "601-924-4000",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "No Value Specified",
+            "electiveProcedureWaitTimeDescription": "No Value Specified",
+            "averageWaitTimeDescription": "No Value Specified",
+            "extendedHoursFlag": true
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "MEA Medical Clinic Castlewoods",
+              "addressLineOne": "507 Lakeland Pl",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Edward S Callihan, CNP",
+            "specialty": "Family Medicine",
+            "telephone": "601-924-4000",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "No Value Specified",
+            "electiveProcedureWaitTimeDescription": "No Value Specified",
+            "averageWaitTimeDescription": "No Value Specified",
+            "extendedHoursFlag": true
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "Family Health Care Clinic Flowood",
+              "addressLineOne": "1307 Airport Rd N Ste 2",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Dennis U. Adams, MD",
+            "specialty": "Family Medicine",
+            "telephone": "601-936-3833",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Open to Existing Patients & Family Members",
+            "electiveProcedureWaitTimeDescription": "1 - 2 Weeks",
+            "averageWaitTimeDescription": "15 - 30 Minutes",
+            "extendedHoursFlag": true
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "Magnolia Medical Clinic - Flowood",
+              "addressLineOne": "2629 Courthouse Cir",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Parvesh K. Goel, MD",
+            "specialty": "Internal Medicine",
+            "telephone": "601-859-9888",
+            "providerId": null,
+            "providerRating": "1.0",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "1 Week or Less",
+            "averageWaitTimeDescription": "15 - 30 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "MEA Medical Clinic Castlewoods",
+              "addressLineOne": "507 Lakeland Pl",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Diana L. Entrekin, MD",
+            "specialty": "Family Medicine",
+            "telephone": "601-924-4000",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "No Value Specified",
+            "electiveProcedureWaitTimeDescription": "No Value Specified",
+            "averageWaitTimeDescription": "No Value Specified",
+            "extendedHoursFlag": true
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "UMMC - Grants Ferry",
+              "addressLineOne": "1010 Lakeland Pl",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Stephanie L Goei, MD",
+            "specialty": "Ophthalmology",
+            "telephone": "888-815-2005",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "3 - 4 Weeks",
+            "averageWaitTimeDescription": "30 - 45 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "UMMC - Grants Ferry",
+              "addressLineOne": "1010 Lakeland Pl",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Anju P Sukumaran, MD",
+            "specialty": "Pediatrics",
+            "telephone": "888-815-2005",
+            "providerId": null,
+            "providerRating": "5.0",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "3 - 4 Weeks",
+            "averageWaitTimeDescription": "30 - 45 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "St Dominics Family Medicine of Flowood",
+              "addressLineOne": "1050 River Oaks Dr Ste 100",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Anuj Marya, MD",
+            "specialty": "Family Medicine",
+            "telephone": "601-200-4760",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "1 - 2 Weeks",
+            "averageWaitTimeDescription": "15 - 30 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "UMMC - Grants Ferry",
+              "addressLineOne": "1010 Lakeland Pl",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Melanie N Truong-Le, DO",
+            "specialty": "Neuro-Ophthalmology",
+            "telephone": "888-815-2005",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "No Value Specified",
+            "averageWaitTimeDescription": "No Value Specified",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "Lakeland Radiologists PA",
+              "addressLineOne": "294 E Layfair Dr",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Andrew T. Smyth, MD",
+            "specialty": "Radiology, Diagnostic",
+            "telephone": "601-200-2000",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "1 - 2 Weeks",
+            "averageWaitTimeDescription": "0 - 15 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "Lakeland Radiologists PA",
+              "addressLineOne": "2510 Lakeland Dr",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Andrew T. Smyth, MD",
+            "specialty": "Radiology, Diagnostic",
+            "telephone": "601-200-2000",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "1 - 2 Weeks",
+            "averageWaitTimeDescription": "0 - 15 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "Lakeland Radiologists PA",
+              "addressLineOne": "1026 N Flowood Dr",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Andrew T. Smyth, MD",
+            "specialty": "Radiology, Diagnostic",
+            "telephone": "601-200-2000",
+            "providerId": null,
+            "providerRating": "5.0",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "1 - 2 Weeks",
+            "averageWaitTimeDescription": "0 - 15 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "Lakeland Radiologists PA",
+              "addressLineOne": "1030 River Oaks Dr",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Andrew T. Smyth, MD",
+            "specialty": "Radiology, Diagnostic",
+            "telephone": "601-200-2000",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "1 - 2 Weeks",
+            "averageWaitTimeDescription": "0 - 15 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "MEA Medical Clinic Castlewoods",
+              "addressLineOne": "507 Lakeland Pl",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Farhan Nafis, MD",
+            "specialty": "Emergency Medicine",
+            "telephone": "601-924-4000",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "No Value Specified",
+            "electiveProcedureWaitTimeDescription": "No Value Specified",
+            "averageWaitTimeDescription": "No Value Specified",
+            "extendedHoursFlag": true
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "Newsouth Neurospine",
+              "addressLineOne": "2470 Flowood Dr",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "David Carl Collipp, MD",
+            "specialty": "Physical Medicine and Rehabilitation",
+            "telephone": "601-936-0400",
+            "providerId": null,
+            "providerRating": "5.0",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "1 Week or Less",
+            "averageWaitTimeDescription": "0 - 15 Minutes",
+            "extendedHoursFlag": true
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "MEA Medical Clinic Castlewoods",
+              "addressLineOne": "507 Lakeland Pl",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Gavin W. Nowell, PAC",
+            "specialty": "Family Medicine",
+            "telephone": "601-924-4000",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "No Value Specified",
+            "electiveProcedureWaitTimeDescription": "No Value Specified",
+            "averageWaitTimeDescription": "No Value Specified",
+            "extendedHoursFlag": true
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "UMMC - Grants Ferry",
+              "addressLineOne": "1010 Lakeland Pl",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Lucette T Liddell, MD",
+            "specialty": "Dermatology",
+            "telephone": "888-815-2005",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "No Value Specified",
+            "averageWaitTimeDescription": "No Value Specified",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "MEA Primary Care Plus Castlewoods",
+              "addressLineOne": "507 Lakeland Pl",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Farhan Nafis, MD",
+            "specialty": "Emergency Medicine",
+            "telephone": "601-898-7557",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "1 Week or Less",
+            "averageWaitTimeDescription": "15 - 30 Minutes",
+            "extendedHoursFlag": true
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "MEA Primary Care Plus Castlewoods",
+              "addressLineOne": "507 Lakeland Pl",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Farhan Nafis, MD",
+            "specialty": "Internal Medicine",
+            "telephone": "601-898-7557",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "1 Week or Less",
+            "averageWaitTimeDescription": "15 - 30 Minutes",
+            "extendedHoursFlag": true
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "Riverchase Neurology Clinic",
+              "addressLineOne": "2550 Flowood Dr Ste 200",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Sara H. Gleason, MD",
+            "specialty": "Psychiatry",
+            "telephone": "888-815-2005",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "3 - 4 Weeks",
+            "averageWaitTimeDescription": "30 - 45 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "Baptist Medical Clinic Dogwood",
+              "addressLineOne": "151 E Metro Dr Ste 103",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Angela Graham, CNP",
+            "specialty": "Family Medicine",
+            "telephone": "601-992-3288",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "1 - 2 Weeks",
+            "averageWaitTimeDescription": "15 - 30 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "Southeast Urogyn LLC",
+              "addressLineOne": "1040 River Oaks Dr Ste 103",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Ahmet Bedestani, MD",
+            "specialty": "Gynecology",
+            "telephone": "601-948-6540",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "1 - 2 Weeks",
+            "averageWaitTimeDescription": "0 - 15 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "Female Pelvic Diagnostics",
+              "addressLineOne": "1040 River Oaks Dr Ste 101",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Ahmet Bedestani, MD",
+            "specialty": "Gynecology",
+            "telephone": "601-948-6540",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "1 - 2 Weeks",
+            "averageWaitTimeDescription": "0 - 15 Minutes",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "Riverchase Neurology Clinic",
+              "addressLineOne": "2550 Flowood Dr Ste 200",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Courtney Huval, MD",
+            "specialty": "Neurology",
+            "telephone": "888-815-2005",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "No Value Specified",
+            "averageWaitTimeDescription": "No Value Specified",
+            "extendedHoursFlag": false
+          }
+        },
+        {
+          "provider": {
+            "address": {
+              "locationName": "Riverchase Neurology Clinic",
+              "addressLineOne": "2550 Flowood Dr Ste 200",
+              "addressLineTwo": "",
+              "city": "Flowood",
+              "latitude": "-1000.000000",
+              "longitude": "-1000.000000",
+              "state": "MS",
+              "zip": "39232"
+            },
+            "name": "Anna DeLeon, MD",
+            "specialty": "Psychiatry",
+            "telephone": "888-815-2005",
+            "providerId": null,
+            "providerRating": "",
+            "colorMeHealthy": false,
+            "bluePrimaryCare": false,
+            "acceptsNewPatientsDescription": "Accepts New Patients",
+            "electiveProcedureWaitTimeDescription": "3 - 4 Weeks",
+            "averageWaitTimeDescription": "30 - 45 Minutes",
+            "extendedHoursFlag": false
+          }
+        }
+      ]
+    }
+  },
+  "providerOptions": {
+
+    "blueSpecialtyCareProviders": [
+        {
+            "location": {
+                "addressLine1": "225 Tomlinson Dr",
+                "city": "Starkville",
+                "locationName": "Columbus Orthopaedic Clinic",
+                "phone": "662-328-1012",
+                "state": "MS",
+                "zip": "39759",
+                "providerNames": [
+                    "GALJOUR GEORGE C MD",
+                    "JONES GORDON SCOTT MD"
+                ]
+            }
+        },
+        {
+            "location": {
+                "addressLine1": "1100 Belk Blvd",
+                "city": "Oxford",
+                "locationName": "Oxford Orthopaedics & Sports Medicine",
+                "phone": "662-513-2000",
+                "state": "MS",
+                "zip": "38655",
+                "providerNames": [
+                    "ELLIS ROBERT MD"
+                ]
+            }
+        },
+        {
+            "location": {
+                "addressLine1": "6051 US Hwy 49",
+                "city": "Hattiesburg",
+                "locationName": "Southern Bone & Joint - FGH",
+                "phone": "601-554-7400",
+                "state": "MS",
+                "zip": "39401",
+                "providerNames": [
+                    "ANTINNES JAMES A MD",
+                    "BARBIERI ROCCO ANTHONY MD",
+                    "CHAROGLU CONSTANTINE P MD",
+                    "GREGG FREDERICK O DO",
+                    "SIKES JAMES N MD"
+                ]
+            }
+        },
+        {
+            "location": {
+                "addressLine1": "2778 Hwy 51 S",
+                "city": "Senatobia",
+                "locationName": "Specialty Orthopedic Group of MS",
+                "phone": "662-767-4200",
+                "state": "MS",
+                "zip": "38668",
+                "providerNames": [
+                    "MOORE RYVES A MD",
+                    "SANDIFER PHILLIP A MD"
+                ]
+            }
+        },
+        {
+            "location": {
+                "addressLine1": "1211 S Gloster St",
+                "city": "Tupelo",
+                "locationName": "Specialty Orthopaedic Group of MS",
+                "phone": "662-767-4200",
+                "state": "MS",
+                "zip": "38801",
+                "providerNames": [
+                    "ALTMYER CHAD S MD",
+                    "MATHIS TAYLOR P MD",
+                    "MILLER MATTHEW A MD",
+                    "MOORE RYVES A MD",
+                    "RAINEY RICHARD D MD",
+                    "ROBERSON ROWLAND M MD",
+                    "WILLIAMS JEB H MD"
+                ]
+            }
+        },
+        {
+            "location": {
+                "addressLine1": "106 Highland Way",
+                "city": "Madison",
+                "locationName": "Capital Ortho",
+                "phone": "601-987-8200",
+                "state": "MS",
+                "zip": "39110",
+                "providerNames": [
+                    "SMITHERMAN JAMES A MD"
+                ]
+            }
+        },
+        {
+            "location": {
+                "addressLine1": "27 Southern Pointe Pkwy",
+                "city": "Hattiesburg",
+                "locationName": "The Orthopedic Institute Outpatient",
+                "phone": "601-554-7400",
+                "state": "MS",
+                "zip": "39401",
+                "providerNames": [
+                    "BARBIERI ROCCO ANTHONY MD",
+                    "SIKES JAMES N MD"
+                ]
+            }
+        },
+        {
+            "location": {
+                "addressLine1": "497 Azalea Dr Ste 102",
+                "city": "Oxford",
+                "locationName": "Oxford Orthopaedics and Sports Medicine",
+                "phone": "662-219-3580",
+                "state": "MS",
+                "zip": "38655",
+                "providerNames": [
+                    "BOYD DANIEL L MD",
+                    "ELLIS ROBERT MD",
+                    "LUBER KURRE T MD",
+                    "TERRY COOPER L MD"
+                ]
+            }
+        },
+        {
+            "location": {
+                "addressLine1": "670 Leigh Dr",
+                "city": "Columbus",
+                "locationName": "Columbus Orthopaedic Clinic",
+                "phone": "662-328-1012",
+                "state": "MS",
+                "zip": "39705",
+                "providerNames": [
+                    "GALJOUR GEORGE C MD",
+                    "HALL JUSTIN M MD",
+                    "HURT JAMES A III MD",
+                    "JONES GORDON SCOTT MD",
+                    "MULLANE AARON M MD"
+                ]
+            }
+        },
+        {
+            "location": {
+                "addressLine1": "499 Gloster Creek Vlg",
+                "city": "Tupelo",
+                "locationName": "Orthopaedic Institute of N MS",
+                "phone": "662-377-2663",
+                "state": "MS",
+                "zip": "38801",
+                "providerNames": [
+                    "WILLIAMS JEB H MD"
+                ]
+            }
+        },
+        {
+            "location": {
+                "addressLine1": "1200 Office Park Ste 100",
+                "city": "Oxford",
+                "locationName": "Oxford Orthopaedics and Sports Medicine",
+                "phone": "662-513-2000",
+                "state": "MS",
+                "zip": "38655",
+                "providerNames": [
+                    "ELLIS ROBERT MD"
+                ]
+            }
+        },
+        {
+            "location": {
+                "addressLine1": "5001 Hardy St",
+                "city": "Hattiesburg",
+                "locationName": "Southern Bone & Joint - Mhw",
+                "phone": "601-554-7400",
+                "state": "MS",
+                "zip": "39402",
+                "providerNames": [
+                    "ANTINNES JAMES A MD",
+                    "BARBIERI ROCCO ANTHONY MD",
+                    "CHAROGLU CONSTANTINE P MD",
+                    "GREGG FREDERICK O DO",
+                    "SIKES JAMES N MD"
+                ]
+            }
+        },
+        {
+            "location": {
+                "addressLine1": "1325 E Fortification St",
+                "city": "Jackson",
+                "locationName": "MS Sports Medicine & Orthopaedic Center",
+                "phone": "601-354-4488",
+                "state": "MS",
+                "zip": "39202",
+                "providerNames": [
+                    "ALMAND JEFF D MD",
+                    "CALVERT GRAHAM C MD",
+                    "FIELD LARRY D MD",
+                    "HOBGOOD EDWARD RHETTSON MD",
+                    "JOHNSON WILLIAM B MD",
+                    "MEHRLE ROBERT K MD",
+                    "PICKERING TREVOR R MD",
+                    "RAMSEY JAMES R MD",
+                    "WOODALL JAMES W JR MD",
+                    "YOUNG MATTHEW L MD"
+                ]
+            }
+        },
+        {
+            "location": {
+                "addressLine1": "499 S Gloster St G1",
+                "city": "Tupelo",
+                "locationName": "Oxford Orthopaedics & Sports Medicine",
+                "phone": "662-513-2000",
+                "state": "MS",
+                "zip": "38801",
+                "providerNames": [
+                    "ELLIS ROBERT MD"
+                ]
+            }
+        },
+        {
+            "location": {
+                "addressLine1": "6300 E Lake Blvd Ste 201",
+                "city": "Vancleave",
+                "locationName": "Bienville Orthopaedic Specialists",
+                "phone": "228-230-2663",
+                "state": "MS",
+                "zip": "39565",
+                "providerNames": [
+                    "BURKS CHRISTOPHER MD",
+                    "HARRISON DONNIS K MD",
+                    "KARPITSKAYA YEKATERINA MD",
+                    "NOBLIN JEFFREY D MD",
+                    "WASHINGTON ERIC D MD",
+                    "WINTERS CHARLES J MD",
+                    "WITTERSHEIM DANIEL A MD"
+                ]
+            }
+        },
+        {
+            "location": {
+                "addressLine1": "2470 Flowood Dr",
+                "city": "Flowood",
+                "locationName": "Newsouth Neurospine",
+                "phone": "601-936-0400",
+                "state": "MS",
+                "zip": "39232",
+                "providerNames": [
+                    "AMUNDSON ERIC W MD",
+                    "AZORDEGAN PHILIP A MD",
+                    "DAVIS JOHN D IV MD",
+                    "MORIARITY JOHN L JR MD",
+                    "STRINGER WALTON L MD",
+                    "VANLANDINGHAM MATTHEW A MD",
+                    "WALSH KELSEY A MD",
+                    "WOOD EUGENE G III MD"
+                ]
+            }
+        },
+        {
+            "location": {
+                "addressLine1": "1720A Medical Park Dr Ste 220",
+                "city": "Biloxi",
+                "locationName": "Bienville Orthopaedic Specialists",
+                "phone": "228-230-2663",
+                "state": "MS",
+                "zip": "39532",
+                "providerNames": [
+                    "BROWN JONATHAN D MD",
+                    "LEIS HENRY T MD",
+                    "LEWIS MATTHEW W MD",
+                    "SALLOUM GEORGE T MD",
+                    "TUCKER JOEL A MD"
+                ]
+            }
+        },
+        {
+            "location": {
+                "addressLine1": "15476 Dedeaux Rd",
+                "city": "Gulfport",
+                "locationName": "Bienville Orthopaedic Specialists",
+                "phone": "228-230-2663",
+                "state": "MS",
+                "zip": "39503",
+                "providerNames": [
+                    "COX JOSEPH T MD",
+                    "GRAHAM ERIC J MD"
+                ]
+            }
+        },
+        {
+            "location": {
+                "addressLine1": "3688 Veterans Memorial Dr",
+                "city": "Hattiesburg",
+                "locationName": "Southern Bone & Joint Specialists PA",
+                "phone": "601-554-7400",
+                "state": "MS",
+                "zip": "39401",
+                "providerNames": [
+                    "ANTINNES JAMES A MD",
+                    "BARBIERI ROCCO ANTHONY MD",
+                    "BERRY JOHN H MD",
+                    "CHAROGLU CONSTANTINE P MD",
+                    "DEWS ROBERT C MD",
+                    "FOLSE JACOB MD",
+                    "GREGG FREDERICK O DO",
+                    "LEE DAVID C MD",
+                    "LINE LAWRENCE L MD",
+                    "PATTERSON MICHAEL C MD",
+                    "SIKES JAMES N MD",
+                    "WARD DONALD R MD"
+                ]
+            }
+        },
+        {
+            "location": {
+                "addressLine1": "100 Baptist Memorial Cir Ste 330",
+                "city": "Oxford",
+                "locationName": "Specialty Orthopaedic Group of MS",
+                "phone": "662-767-4200",
+                "state": "MS",
+                "zip": "38655",
+                "providerNames": [
+                    "ROBERSON ROWLAND M MD",
+                    "SANDIFER PHILLIP A MD",
+                    "WILLIAMS JEB H MD"
+                ]
+            }
+        },
+        {
+            "location": {
+                "addressLine1": "104 Burney Dr",
+                "city": "Flowood",
+                "locationName": "Capital Orthopaedic & Sports Medicine",
+                "phone": "601-987-8200",
+                "state": "MS",
+                "zip": "39232",
+                "providerNames": [
+                    "BRIEN GLENN A MD",
+                    "BROWN JAMES T MD",
+                    "DULSKE MICHAEL G MD",
+                    "FUTVOYE MATTHEW C MD",
+                    "HENDRIX STEVEN T MD",
+                    "KENNEDY EDWIN J MD",
+                    "KNEIP CHRISTOPHER J MD",
+                    "MCCRANEY WILLIAM O MD",
+                    "SMITHERMAN JAMES A MD"
+                ]
+            }
+        }
+    ],
+
+    "centerOfExcellenceProviders": [
+        {
+            "hospital": {
+                "address": {
+                    "addressLineOne": "1100 Belk Blvd",
+                    "addressLineTwo": "",
+                    "city": "Oxford",
+                    "latitude": "-1000.000000",
+                    "longitude": "-1000.000000",
+                    "state": "MS",
+                    "zip": "38655"
+                },
+                "name": "Baptist Memorial Hospital - North MS",
+                "specialty": null,
+                "telephone": "662-330-0120",
+                "isKneeAndHipCert": false,
+                "isSpineCert": false,
+                "isCardiacCert": false,
+                "isMaternityCare": true,
+                "isOrthopaedic": false,
+                "isColonoscopy": false,
+                "providerId": null,
+                "extendedHoursFlag": false
+            }
+        },
+        {
+            "hospital": {
+                "address": {
+                    "addressLineOne": "7601 Southcrest Pkwy",
+                    "addressLineTwo": "",
+                    "city": "Southaven",
+                    "latitude": "-1000.000000",
+                    "longitude": "-1000.000000",
+                    "state": "MS",
+                    "zip": "38671"
+                },
+                "name": "Baptist Memorial Hospital DeSoto",
+                "specialty": null,
+                "telephone": "662-330-0120",
+                "isKneeAndHipCert": false,
+                "isSpineCert": false,
+                "isCardiacCert": false,
+                "isMaternityCare": true,
+                "isOrthopaedic": false,
+                "isColonoscopy": false,
+                "providerId": null,
+                "extendedHoursFlag": false
+            }
+        },
+        {
+            "hospital": {
+                "address": {
+                    "addressLineOne": "2520 5th St N",
+                    "addressLineTwo": "",
+                    "city": "Columbus",
+                    "latitude": "-1000.000000",
+                    "longitude": "-1000.000000",
+                    "state": "MS",
+                    "zip": "39705"
+                },
+                "name": "Baptist Memorial Hospital Golden Triangle",
+                "specialty": null,
+                "telephone": "662-330-0120",
+                "isKneeAndHipCert": true,
+                "isSpineCert": true,
+                "isCardiacCert": false,
+                "isMaternityCare": true,
+                "isOrthopaedic": false,
+                "isColonoscopy": false,
+                "providerId": null,
+                "extendedHoursFlag": false
+            }
+        },
+        {
+            "hospital": {
+                "address": {
+                    "addressLineOne": "640 Leigh Dr",
+                    "addressLineTwo": "",
+                    "city": "Columbus",
+                    "latitude": "-1000.000000",
+                    "longitude": "-1000.000000",
+                    "state": "MS",
+                    "zip": "39705"
+                },
+                "name": "Columbus Orthopaedic Outpatient Center, LLC",
+                "specialty": "Ambulatory Surgical Facility",
+                "telephone": "662-328-7123",
+                "isKneeAndHipCert": true,
+                "isSpineCert": true,
+                "isCardiacCert": false,
+                "isMaternityCare": false,
+                "isOrthopaedic": false,
+                "isColonoscopy": false,
+                "providerId": null,
+                "extendedHoursFlag": false
+            }
+        },
+        {
+            "hospital": {
+                "address": {
+                    "addressLineOne": "6051 U S Hwy 49",
+                    "addressLineTwo": "",
+                    "city": "Hattiesburg",
+                    "latitude": "-1000.000000",
+                    "longitude": "-1000.000000",
+                    "state": "MS",
+                    "zip": "39401"
+                },
+                "name": "Forrest General Hospital",
+                "specialty": null,
+                "telephone": "601-288-7000",
+                "isKneeAndHipCert": true,
+                "isSpineCert": true,
+                "isCardiacCert": true,
+                "isMaternityCare": false,
+                "isOrthopaedic": false,
+                "isColonoscopy": false,
+                "providerId": null,
+                "extendedHoursFlag": false
+            }
+        },
+        {
+            "hospital": {
+                "address": {
+                    "addressLineOne": "4510 Lakeland Dr",
+                    "addressLineTwo": "",
+                    "city": "Flowood",
+                    "latitude": "-1000.000000",
+                    "longitude": "-1000.000000",
+                    "state": "MS",
+                    "zip": "39232"
+                },
+                "name": "Madison Physician Surgery Center, LLC",
+                "specialty": "Single Special Ambulatory Facility",
+                "telephone": "601-605-5393",
+                "isKneeAndHipCert": true,
+                "isSpineCert": true,
+                "isCardiacCert": false,
+                "isMaternityCare": false,
+                "isOrthopaedic": false,
+                "isColonoscopy": false,
+                "providerId": null,
+                "extendedHoursFlag": false
+            }
+        },
+        {
+            "hospital": {
+                "address": {
+                    "addressLineOne": "1030 River Oaks Dr",
+                    "addressLineTwo": "",
+                    "city": "Flowood",
+                    "latitude": "-1000.000000",
+                    "longitude": "-1000.000000",
+                    "state": "MS",
+                    "zip": "39232"
+                },
+                "name": "Merit Health River Oaks",
+                "specialty": null,
+                "telephone": "601-932-1030",
+                "isKneeAndHipCert": false,
+                "isSpineCert": true,
+                "isCardiacCert": false,
+                "isMaternityCare": false,
+                "isOrthopaedic": false,
+                "isColonoscopy": false,
+                "providerId": null,
+                "extendedHoursFlag": false
+            }
+        },
+        {
+            "hospital": {
+                "address": {
+                    "addressLineOne": "5001 Hardy St",
+                    "addressLineTwo": "",
+                    "city": "Hattiesburg",
+                    "latitude": "-1000.000000",
+                    "longitude": "-1000.000000",
+                    "state": "MS",
+                    "zip": "39402"
+                },
+                "name": "Merit Health Wesley",
+                "specialty": null,
+                "telephone": "601-268-8000",
+                "isKneeAndHipCert": false,
+                "isSpineCert": false,
+                "isCardiacCert": false,
+                "isMaternityCare": true,
+                "isOrthopaedic": false,
+                "isColonoscopy": false,
+                "providerId": null,
+                "extendedHoursFlag": false
+            }
+        },
+        {
+            "hospital": {
+                "address": {
+                    "addressLineOne": "1225 N State St",
+                    "addressLineTwo": "",
+                    "city": "Jackson",
+                    "latitude": "-1000.000000",
+                    "longitude": "-1000.000000",
+                    "state": "MS",
+                    "zip": "39202"
+                },
+                "name": "Mississippi Baptist Medical Center",
+                "specialty": null,
+                "telephone": "662-330-0120",
+                "isKneeAndHipCert": true,
+                "isSpineCert": true,
+                "isCardiacCert": true,
+                "isMaternityCare": false,
+                "isOrthopaedic": false,
+                "isColonoscopy": false,
+                "providerId": null,
+                "extendedHoursFlag": false
+            }
+        },
+        {
+            "hospital": {
+                "address": {
+                    "addressLineOne": "830 S Gloster St",
+                    "addressLineTwo": "",
+                    "city": "Tupelo",
+                    "latitude": "-1000.000000",
+                    "longitude": "-1000.000000",
+                    "state": "MS",
+                    "zip": "38801"
+                },
+                "name": "North Mississippi Medical Center",
+                "specialty": null,
+                "telephone": "662-377-3000",
+                "isKneeAndHipCert": true,
+                "isSpineCert": false,
+                "isCardiacCert": true,
+                "isMaternityCare": false,
+                "isOrthopaedic": false,
+                "isColonoscopy": false,
+                "providerId": null,
+                "extendedHoursFlag": false
+            }
+        },
+        {
+            "hospital": {
+                "address": {
+                    "addressLineOne": "3109 Bienville Blvd",
+                    "addressLineTwo": "",
+                    "city": "Ocean Springs",
+                    "latitude": "-1000.000000",
+                    "longitude": "-1000.000000",
+                    "state": "MS",
+                    "zip": "39564"
+                },
+                "name": "Ocean Springs Hospital",
+                "specialty": null,
+                "telephone": "228-818-1111",
+                "isKneeAndHipCert": false,
+                "isSpineCert": true,
+                "isCardiacCert": false,
+                "isMaternityCare": false,
+                "isOrthopaedic": false,
+                "isColonoscopy": false,
+                "providerId": null,
+                "extendedHoursFlag": false
+            }
+        },
+        {
+            "hospital": {
+                "address": {
+                    "addressLineOne": "2809 Denny Ave",
+                    "addressLineTwo": "",
+                    "city": "Pascagoula",
+                    "latitude": "-1000.000000",
+                    "longitude": "-1000.000000",
+                    "state": "MS",
+                    "zip": "39581"
+                },
+                "name": "Singing River Health System",
+                "specialty": null,
+                "telephone": "228-809-5540",
+                "isKneeAndHipCert": false,
+                "isSpineCert": true,
+                "isCardiacCert": true,
+                "isMaternityCare": false,
+                "isOrthopaedic": false,
+                "isColonoscopy": false,
+                "providerId": null,
+                "extendedHoursFlag": false
+            }
+        },
+        {
+            "hospital": {
+                "address": {
+                    "addressLineOne": "969 Lakeland Dr",
+                    "addressLineTwo": "",
+                    "city": "Jackson",
+                    "latitude": "-1000.000000",
+                    "longitude": "-1000.000000",
+                    "state": "MS",
+                    "zip": "39216"
+                },
+                "name": "St. Dominic Jackson Memorial Hospital",
+                "specialty": null,
+                "telephone": "601-200-2000",
+                "isKneeAndHipCert": true,
+                "isSpineCert": false,
+                "isCardiacCert": false,
+                "isMaternityCare": false,
+                "isOrthopaedic": false,
+                "isColonoscopy": false,
+                "providerId": null,
+                "extendedHoursFlag": false
+            }
+        }
+    ],
+
+    "providerTypeOptions": [
+        "Blue Primary Care Providers",
+        "Healthy You! Network Providers",
+        "Network Providers",
+        "Be Tobacco-free Network Providers",
+        "Autism Network Providers",
+        "Blue Specialty Care Network Providers",
+        "Centers of Excellence",
+        "Network Hospitals",
+        "Other Network Providers"
+    ]
+  }
+}
