@@ -27,13 +27,11 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-gray-100 py-8">
-      <div className="max-w-7xl mx-auto px-4">
+      <div className="mx-[18%] px-4">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           {/* Results – 2/3 */}
-          <div className="lg:col-span-2">
-            <div className="bg-white rounded-lg shadow-sm p-6">
-              <SearchResults results={results} />
-            </div>
+          <div className="col-span-2 bg-gray-200">
+            <SearchResults results={results} />
           </div>
 
           {/* Form – 1/3 */}
