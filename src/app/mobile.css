@@ -1,0 +1,98 @@
+/* Additional flex utility classes */
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.between {
+  justify-content: space-between;
+}
+
+.align-end {
+  align-items: flex-end;
+}
+
+.align-items-end {
+  align-items: flex-end;
+}
+
+/* Mobile responsive styles matching Vue.js */
+@media screen and (max-width: 600px) {
+  div.app-flex-row {
+    flex-direction: column-reverse;
+  }
+  
+  div.app-flex-row div#providerSearchForm {
+    margin: 2rem auto 0;
+    width: 90%;
+  }
+  
+  div.app-flex-row div#searchResults {
+    width: 90%;
+    margin: 2rem auto 0;
+  }
+  
+  div#search-button-container {
+    flex-direction: column;
+  }
+  
+  #clear-search {
+    margin-top: 1rem;
+  }
+  
+  select#specialtyType,
+  select#providerType,
+  select#distance,
+  input[type="text"] {
+    width: 100%;
+    height: 2rem;
+  }
+  
+  div.button-container.flex-row {
+    flex-direction: column;
+    width: 100%;
+    align-items: normal;
+  }
+  
+  div#button-container {
+    width: 100%;
+  }
+  
+  div#provider-info {
+    width: 100%;
+  }
+  
+  div#COEprovider-info {
+    width: 17rem;
+  }
+  
+  div.provider-container {
+    flex-direction: column;
+  }
+  
+  div.flex-col.align-end {
+    align-items: normal;
+  }
+  
+  div#distinction-logo-div {
+    width: 50%;
+    margin-top: 1rem;
+  }
+  
+  .bdc-container.align-items-end {
+    align-items: normal;
+  }
+  
+  div#modal {
+    width: 80%;
+    top: 6%;
+  }
+  
+  h1 {
+    font-size: 30px;
+  }
+}

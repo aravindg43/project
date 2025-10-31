@@ -1,16 +1,19 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@source "../node_modules/@bcbsms/component-library";
 
-/* :root {
+:root {
   --background: #ffffff;
   --foreground: #171717;
-} */
+}
 
-/* @theme inline {
+@theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
-} */
+}
 
 @media (prefers-color-scheme: dark) {
   :root {
@@ -22,14 +25,287 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  /* font-family: Arial, Helvetica, sans-serif; */
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(-4px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-.animate-fadeIn {
-  animation: fadeIn 0.2s ease-in-out;
+/* Material Icons - Keep as these are used in components */
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  display: inline-block;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: rtl;
+  user-select: none;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: 'liga';
 }
 
+/* Material Icons sizing */
+.md-14 { font-size: 14px; }
+.md-16 { font-size: 16px; }
+.md-18 { font-size: 18px; }
+.md-20 { font-size: 20px; }
+.md-24 { font-size: 24px; }
+.md-33 { font-size: 33px; }
+.md-36 { font-size: 36px; }
+.md-48 { font-size: 48px; }
+
+/* Loading Spinner Styles - Keep as LoadingSpinner component uses these */
+.spinner-background {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.loading-spinner {
+  text-align: center;
+}
+
+#floatingCirclesG {
+  position: relative;
+  width: 125px;
+  height: 125px;
+  margin: auto;
+  transform: rotate(225deg);
+}
+
+.f_circleG {
+  position: absolute;
+  background-color: #00a0df;
+  height: 22px;
+  width: 22px;
+  border-radius: 12px;
+  animation-name: f_fadeG;
+  animation-duration: 1.2s;
+  animation-iteration-count: infinite;
+  animation-direction: linear;
+}
+
+#frotateG_01 {
+  left: 0;
+  top: 51px;
+  animation-delay: 0.45s;
+}
+
+#frotateG_02 {
+  left: 15px;
+  top: 15px;
+  animation-delay: 0.6s;
+}
+
+#frotateG_03 {
+  left: 51px;
+  top: 0;
+  animation-delay: 0.75s;
+}
+
+#frotateG_04 {
+  right: 15px;
+  top: 15px;
+  animation-delay: 0.9s;
+}
+
+#frotateG_05 {
+  right: 0;
+  top: 51px;
+  animation-delay: 1.05s;
+}
+
+#frotateG_06 {
+  right: 15px;
+  bottom: 15px;
+  animation-delay: 1.2s;
+}
+
+#frotateG_07 {
+  left: 51px;
+  bottom: 0;
+  animation-delay: 1.35s;
+}
+
+#frotateG_08 {
+  left: 15px;
+  bottom: 15px;
+  animation-delay: 1.5s;
+}
+
+@keyframes f_fadeG {
+  0% {
+    background-color: #000000;
+  }
+  100% {
+    background-color: #ffffff;
+  }
+}
+
+/* Button Styles - Keep as PrimaryButton component uses these */
+button:disabled.button-generic,
+button[disabled].button-generic {
+  background-color: #dddddd;
+  border: 2px solid transparent;
+  color: white;
+}
+
+.button-generic {
+  display: inline-block;
+  padding: 0.75rem 1rem;
+  text-align: center;
+  text-decoration: none;
+  transition: transform 300ms;
+  background-color: white;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  transition-duration: 0.4s;
+}
+
+.button-generic.orange:not(:disabled):hover {
+  color: #fff;
+  background-color: #F77300;
+}
+
+.button-generic.outline:not(:disabled):hover {
+  color: #fff;
+  background-color: #00A0DF;
+}
+
+.button-generic:not(:disabled):not(.anchor):hover {
+  transform: translateY(-10%);
+}
+
+.button-generic.anchor:not(:disabled):hover {
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.button-generic.outline {
+  border: 1px solid #00A0DF;
+  color: #00A0DF;
+}
+
+.button-generic.blue {
+  background-color: #00a0df;
+  color: white;
+  border: 2px solid transparent;
+}
+
+.button-generic.orange {
+  background-color: #ed8d41;
+  color: white;
+  border: 2px solid transparent;
+}
+
+.button-generic.cancel {
+  background-color: #e4002b;
+  color: white;
+  border: 2px solid transparent;
+}
+
+.button-generic.negative {
+  background-color: #eeeeee;
+  color: black;
+  border: 2px solid transparent;
+}
+
+.button-generic.anchor {
+  color: #04a1de;
+  background-color: transparent;
+  border: none;
+  border-radius: none;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 0;
+  transition-duration: none;
+  text-decoration: underline;
+}
+
+.button-generic.anchor:hover {
+  background: transparent;
+  user-select: none;
+  transform: none;
+}
+
+/* Modal Styles - Keep as they might be used by other components */
+.modal-generic {
+  display: block;
+  left: unset;
+  top: unset;
+  width: 30em;
+  transform: translate(0rem, 2rem);
+  margin: 0 auto;
+}
+
+.modal-wrapper {
+  background-color: #fff;
+  border-radius: 0.5em;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  position: relative;
+}
+
+.modal-wrapper.center {
+  left: -50%;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 800;
+}
+
+.message-overlay {
+  background-color: #fff;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  opacity: 0.9;
+  position: fixed;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 901;
+}
+
+.close-button {
+  transition-duration: 0.2s;
+  border-radius: 0.4rem;
+}
+
+.close-button:hover {
+  background: red;
+  color: white;
+  border-radius: 0.4rem;
+  user-select: none;
+}
+
+/* Form input styles - Keep for consistency */
+input[type="radio"] {
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5);
+  margin: 0.75rem;
+}
+
+input[type="checkbox"] {
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5);
+  margin: 0.75rem;
+}
